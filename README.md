@@ -4,52 +4,52 @@ Contenido por Unidades
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Unidad 1: Memoria:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--Gestión de memoria estática y dinámica
--Punteros y referencias
--Asignación y liberación de memoria
--Ejercicios sobre manejo de memoria en C++
+-Gestión de memoria estática y dinámica.
+-Punteros y referencias.
+-Asignación y liberación de memoria.
+-Ejercicios sobre manejo de memoria en C++.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🏗️ Unidad 2: Introducción a Programación Orientada a Objetos
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--Clases y objetos
--Encapsulamiento
--Constructores y destructores
--Métodos de clase
--Ejercicios básicos de POO
+-Clases y objetos.
+-Encapsulamiento.
+-Constructores y destructores.
+-Métodos de clase.
+-Ejercicios básicos de POO.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🔗 Unidad 3: Relaciones entre Clases
+🔗 Unidad 3: Relaciones entre Clases.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--Asociación entre clases
--Composición y agregación
--Herencia y polimorfismo
--Ejercicios sobre relaciones de objetos
+-Asociación entre clases.
+-Composición y agregación.
+-Herencia y polimorfismo.
+-Ejercicios sobre relaciones de objetos.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-⚙️ Unidad 4: Operadores
+⚙️ Unidad 4: Operadores.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--Sobrecarga de operadores
--Operadores unarios y binarios
--Operadores de entrada/salida
--Ejercicios de implementación de operadores
+-Sobrecarga de operadores.
+-Operadores unarios y binarios.
+-Operadores de entrada/salida.
+-Ejercicios de implementación de operadores.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📁 Unidad 5 y 6: Archivos
+📁 Unidad 5 y 6: Archivos.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--Manejo de archivos de texto
--Archivos binarios
--Serialización de objetos
--Persistencia de datos
--Ejercicios de lectura/escritura de archivos
+-Manejo de archivos de texto.
+-Archivos binarios.
+-Serialización de objetos.
+-Persistencia de datos.
+-Ejercicios de lectura/escritura de archivos.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-📐 Unidad 7: Templates
+📐 Unidad 7: Templates.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--Plantillas de funciones
--Plantillas de clases
--Genericidad
--Ejercicios de programación genérica
+-Plantillas de funciones.
+-Plantillas de clases.
+-Genericidad.
+-Ejercicios de programación genérica.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🧰 Unidad 8: STL (Standard Template Library)
+🧰 Unidad 8: STL (Standard Template Library).
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
--Contenedores (vector, list, map, etc.)
--Iteradores
--Algoritmos
--Funciones lambda
--Ejercicios prácticos con STL
+-Contenedores (vector, list, map, etc.).
+-Iteradores.
+-Algoritmos.
+-Funciones lambda.
+-Ejercicios prácticos con STL.
